@@ -14,17 +14,13 @@ body{
 .row{
     padding: 0.5rem;
 }
-.coImg{
-    background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-}
+
 
 #fotos{
     height: 1%;
     
 }
+
 
 .exp{
   width: 30%;
