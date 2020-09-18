@@ -1,0 +1,104 @@
+
+body{
+    background-color: #f1f3f8;
+}
+#servicios{
+    text-align: center;
+}
+.servicios{
+    padding: 5%;
+    background-color: #eeeeee;
+    /* background-color: rgba(255, 0, 0, 0.774); */
+    
+}
+.row{
+    padding: 0.5rem;
+}
+.coImg{
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+#fotos{
+    height: 1%;
+    
+}
+
+.exp{
+  width: 30%;
+  border-radius: 100%;
+  margin: 10px;
+    
+}
+
+.featurette-image{
+    width: 500px; 
+    height: 300px;
+}
+.featurette-heading{
+    text-align: center;
+    padding-top: 5%;
+}
+hr.style-two {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(199, 36, 36, 0), rgba(236, 55, 55, 0.75), rgba(0, 0, 0, 0));
+}
+.map-container-section {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container-section iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+#features{
+
+    text-align: center;
+    /* background-color: #ec0101; */
+}
+h5, p {
+    /* color:white ;
+    -webkit-text-stroke: 0.5px black;
+    font-size: 30px;
+    font-weight: bold; */
+}
+h3{
+    text-align: center;
+}
+.contactos{
+    text-align: center;
+    background-color: #eeeeee;
+    background-color: ;
+}
+}
+/* .card:hover{ 
+    background-color: rgba(247,28,19,0.2);
+    background: rgba(247,28,19,0.2); */
+}
+.page-footer {
+
+    background-color: #4a5766;
+    
+    color: snow;
+}
+.fas{
+      
+     color: red;
+}
+.card{
+    position: relative;
+}
+.navbar{
+    justify-content: space-between;
+    background-color: #3a4750;
+    font-weight: bolder;
+    color: snow;
+}
